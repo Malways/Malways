@@ -4,8 +4,6 @@
 <!-- 제미나이가 해줬어요 짱이죠 -->
 <h1 style="border-bottom: none;">SUEÑO IMPOSIBLE</h1>
 
-[![Hits](https://seeyoufarm.com)](https://seeyoufarm.com)
-
 </div>
 
 ---
@@ -38,9 +36,5 @@
 - **제 8회 전국 고등학교 동아리 SW 경진대회** 준우승 (`EmergenShare`)
 - **한양대학교 ERICA 제13회 SW창업아이디어톤** 장려상 (`Livia`)
 
-
 ---
 
-<div align="center">
-  <img src="https://vercel.app" alt="GalaKrond's GitHub stats" />
-</div>
