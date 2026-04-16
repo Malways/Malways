@@ -1,13 +1,14 @@
 # **SUEÑO IMPOSIBLE**
 
+---
+
 ### About Me
 
 Ajou D.Media 26학번 정하람이라고 합니다 🎮
 
 게임 기획자를 꿈꾸고 있고, 문제 해결 및 서비스 개발 역시 관심을 가지고 있습니다!
 
-
-
+---
 
 ### Remarkable Projects
 
@@ -19,12 +20,16 @@ Ajou D.Media 26학번 정하람이라고 합니다 🎮
 
 **Project Rhythmical - BA Fan Rhythm Action Game Inspired by Crypt of the Necrodancer**  
 
+---
+
 # Learning
 
 ![Currently Learning](https://img.shields.io/badge/-Learning-000000?style=for-the-badge&logo=FutureLearn&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=dart&logoColor=fff)
 ![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity&logoColor=fff)    
+
+---
 
 ### Records & Awards
 
