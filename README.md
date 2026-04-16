@@ -1,4 +1,4 @@
-# **SUEÑO IMPOSIBLE**
+# **SUEÑO IMPOSIBLE** #
 
 ---
 
@@ -22,7 +22,7 @@ Ajou D.Media 26학번 정하람이라고 합니다 🎮
 
 ---
 
-# Learning
+# Learning #
 
 ![Currently Learning](https://img.shields.io/badge/-Learning-000000?style=for-the-badge&logo=FutureLearn&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
