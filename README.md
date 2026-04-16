@@ -9,6 +9,10 @@
 
 **EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection**    
 
+**Tetredle - Tetris + Wordle made with pure HTML/JS/CSS**
+
+**Aeroduelo - Ace Combat inspired multiplayer plane shooter game**
+
 **Project Rhythmical - BA Fan Rhythm Action Game Inspired by Crypt of the Necrodancer**  
 
 # Learning
