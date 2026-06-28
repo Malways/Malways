@@ -3,6 +3,7 @@
 <!-- 제목 부분: # 대신 <h1> 태그에 스타일을 주어 밑줄을 제거했습니다 -->
 <!-- 제미나이가 해줬어요 짱이죠 -->
 <h1 style="border-bottom: none;">SUEÑO IMPOSIBLE</h1>
+<h1 style="border-bottom: none;">죄송해요마감하루전에알아서재밌넥자소서를시간내에다못썼습니다한번만봐주십시오</h1>
 
 </div>
 
