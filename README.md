@@ -17,7 +17,7 @@
 - **Tetredle** |  Tetris + Wordle (HTML/JS/CSS)
 - **AeroDuelo** | Ace Combat style Multiplayer Shooter
 - **Project Rhythmical** | Blue Archive + Necrodancer Style Fan Game
-
+- **Numero** | Simple math web game, still beta on ![](https://numerobeta.netlify.app/)
 ---
 
 ### 📚 Learning
