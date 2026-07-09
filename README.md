@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 Remarkable Projects
-- #### **Services**
+- ### 📱 **Services**
 - **EmergenShare** | YOLO 기반 응급실 혼잡도 분석 및 응급환자 지원 플랫폼 (Flutter + Firebase)
 
-- #### **Games**
+- ### 🎮 **Games**
 - **Tetredle** |  Tetris + Wordle (HTML/JS/CSS)
 - **AeroDuelo** | Ace Combat style Multiplayer Shooter
 - **Project Rhythmical** | Blue Archive + Necrodancer Style Fan Game
