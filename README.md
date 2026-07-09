@@ -3,7 +3,6 @@
 <!-- 제목 부분: # 대신 <h1> 태그에 스타일을 주어 밑줄을 제거했습니다 -->
 <!-- 제미나이가 해줬어요 짱이죠 -->
 <h1 style="border-bottom: none;">SUEÑO IMPOSIBLE</h1>
-<h1 style="border-bottom: none;">마감하루전에알아서재밌넥자소서를다못썼습니다제발용서해주세요</h1>
 
 </div>
 
@@ -14,7 +13,10 @@
 ---
 
 ### 🚀 Remarkable Projects
+- #### **Services**
 - **EmergenShare** | YOLO 기반 응급실 혼잡도 분석 및 응급환자 지원 플랫폼 (Flutter + Firebase)
+
+- #### **Games**
 - **Tetredle** |  Tetris + Wordle (HTML/JS/CSS)
 - **AeroDuelo** | Ace Combat style Multiplayer Shooter
 - **Project Rhythmical** | Blue Archive + Necrodancer Style Fan Game
