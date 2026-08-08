@@ -36,5 +36,6 @@
 - **2023 Photon 게임잼** 특별상 (`AeroDuelo`)
 - **제 8회 전국 고등학교 동아리 SW 경진대회** 준우승 (`EmergenShare`)
 - **한양대학교 ERICA 제13회 SW창업아이디어톤** 장려상 (`Livia`)
+- **2026 재밌넥 수료 (Low Cortisol / 오빠 뭐해?)**
 
 
