@@ -2,7 +2,7 @@
 
 <!-- 제목 부분: # 대신 <h1> 태그에 스타일을 주어 밑줄을 제거했습니다 -->
 <!-- 제미나이가 해줬어요 짱이죠 -->
-<h1 style="border-bottom: none;">SUEÑO IMPOSIBLE</h1>
+<h1 style="border-bottom: none;">부디 더 멀리까지, 이레귤러 맨</h1>
 
 </div>
 
